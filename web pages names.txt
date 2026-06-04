@@ -1,0 +1,14 @@
+index
+home
+login
+main
+events
+profile
+delete
+contact
+contactus
+news
+aboutus
+premium
+download
+upload
