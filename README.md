@@ -2,7 +2,7 @@
 
 
 
-### Web fuzzing as technique:
+### Web fuzzing as a technique:
 
 
 
