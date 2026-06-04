@@ -1,4 +1,4 @@
-## web_fuzzer.py:
+## web_fuzzer.py
 
 
 
