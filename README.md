@@ -14,7 +14,7 @@ Web fuzzing is a technique used to map pages on websites. The ides is pretty sim
 
 
 
-web_fuzzer.py is a demonstration for web fuzzing tool. web_fuzzer.py uses the "web pages names.txt" file as a list of possible webpages names, and checks for each name in the text file if a webpage with that name exists. All the HTTP communication with the web server is done using the module requests.
+web_fuzzer.py is a demonstration for web fuzzing tool. web_fuzzer.py uses the "web pages names.txt" file as a list of possible webpages names, and checks for each name in the text file if a webpage with that name exists on the website. All the HTTP communication with the web server is done using the module requests.
 
 
 
@@ -28,7 +28,7 @@ By default, web_fuzzer.py maps github's website (www.github.com), but this can b
 
 
 
-This tool was written for **educational purposes only!** Any misuse of the tool is in your responsibility only, and considers a cyber crime. Please, use this tool for legitimate purposes:
+This tool was written for **educational purposes only!** Any misuse of the tool is in your responsibility only, and considered a cyber crime. Please, use this tool for legitimate purposes:
 
 
 
